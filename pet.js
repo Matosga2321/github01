@@ -1,5 +1,0 @@
-const prompt = require ("prompt-sync")()
-let nome =  prompt (`nome do pet:`)
-let idade = prompt (`idade do pet:`)
-let raça = prompt ("raça")
-console.log(`o seu cachorro cachorro se chama ${nome},ele tem ${idade} anos e essa é a raça dele ${raça}`)
